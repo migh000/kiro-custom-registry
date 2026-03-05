@@ -135,6 +135,16 @@ kiro://kiro.powers/add?name=my-power
 
 Opens the power details panel — one click to install.
 
+You can create an "Add to Kiro" badge for your README using [Shields.io](https://shields.io):
+
+```markdown
+[![Add to Kiro](https://img.shields.io/badge/Add%20to-Kiro-blue?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48L3N2Zz4=)](kiro://kiro.powers/add?name=my-power)
+```
+
+Example for the Python Scaffolder power:
+
+[![Add to Kiro](https://img.shields.io/badge/Add%20to-Kiro-blue)](kiro://kiro.powers/add?name=python-scaffolder)
+
 ---
 
 ## Auto-install via local registry (optional)
