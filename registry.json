@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "powers": [
+    {
+      "name": "python-scaffolder",
+      "displayName": "Python Project Scaffolder",
+      "author": "GH Platform Team",
+      "description": "Scaffold a modern Python project with uv, ruff, pyright, pytest, and pre-commit",
+      "repositoryUrl": "https://github.com/migh000/kiro-custom-registry/tree/main/powers/python-scaffolder",
+      "launchUrl": "kiro://kiro.powers/add?name=python-scaffolder",
+      "license": "MIT",
+      "repositoryCloneUrl": "git@github.com:migh000/kiro-custom-registry.git",
+      "pathInRepo": "powers/python-scaffolder",
+      "repositoryBranch": "main",
+      "iconUrl": "https://d36covxlf9mog.cloudfront.net/pyscaf.jpg"
+    },
+    {
+      "name": "power-builder",
+      "displayName": "Build a Power",
+      "author": "Kiro Team",
+      "description": "Complete guide for building and testing new Kiro Powers with templates, best practices, and validation",
+      "iconUrl": "https://prod.download.desktop.kiro.dev/powers/icons/power.png",
+      "repositoryUrl": "https://github.com/kirodotdev/powers/tree/main/power-builder",
+      "launchUrl": "kiro://kiro.powers/add?name=power-builder",
+      "license": "",
+      "repositoryCloneUrl": "git@github.com:kirodotdev/powers.git",
+      "pathInRepo": "power-builder",
+      "repositoryBranch": "main"
+    }
+  ]
+}
