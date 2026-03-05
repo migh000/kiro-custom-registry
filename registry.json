@@ -4,7 +4,7 @@
     {
       "name": "python-scaffolder",
       "displayName": "Python Project Scaffolder",
-      "author": "GH Platform Team",
+      "author": "Example Corp Platform Team",
       "description": "Scaffold a modern Python project with uv, ruff, pyright, pytest, and pre-commit",
       "repositoryUrl": "https://github.com/migh000/kiro-custom-registry/tree/main/powers/python-scaffolder",
       "launchUrl": "kiro://kiro.powers/add?name=python-scaffolder",
